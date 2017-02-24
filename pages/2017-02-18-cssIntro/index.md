@@ -2,7 +2,7 @@
 title: CSS 高级特性盘点
 date: "2016-12-14T22:12:03.284Z"
 layout: post
-readNext: "/hi-folks/"
+readNext: "/cssIntro/"
 path: "/netlify/"
 ---
 
