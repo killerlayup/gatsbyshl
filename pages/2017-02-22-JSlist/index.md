@@ -1,7 +1,7 @@
 ---
 title: 前端一些重点list
 date: "2017-02-18T22:12:03.284Z"
-path: "/interviewRecord/"
+path: "/cssCodeGuide/"
 ---
 
 ##gulp.js 构建 pipe()
